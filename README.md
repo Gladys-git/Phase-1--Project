@@ -6,7 +6,7 @@ Aviation Regulators: Organizations like the FAA and ICAO interested in improving
 Airlines and Operators: Concerned with reducing operational risks and improving training programs.
 Airport Authorities: Focused on managing infrastructure and emergency preparedness.
 Pilots and Crew Members: Require insights into high-risk scenarios to improve decision-making.
-Passengers: Indirect stakeholders benefiting from improved aviation safety.
+Passengers: Indirect stakeholders benefiting from improved aviation safety. 
 Key Business Questions
 What are the trends in aviation incidents over time, and how do they vary by country or region?
 Which types of flights are more prone to incidents, and why?
@@ -36,3 +36,4 @@ Conclusions
 The average fatalities are affected by weather condition. Most of the accidents have turned out fatal with a high percentage of total fatal injuries. 
 The make and model of the plane have a lower impact on the number of fatalities. 
 Aviation incidents and injuries exhibit identifiable trends over time, with some years having a significant spike in incidents. These trends may align with factors like increased air traffic, regulatory changes, or geopolitical events.
+https://public.tableau.com/app/profile/gladys.njeri8505/viz/Project1Assignment_17325321101680/Dashboard1?publish=yes 
